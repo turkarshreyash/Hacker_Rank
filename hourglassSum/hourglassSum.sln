@@ -20,6 +20,7 @@ Global
 		{B850A8C5-4880-4AB0-96D9-1E6C15FF709E}.Release|x64.ActiveCfg = Release|x64
 		{B850A8C5-4880-4AB0-96D9-1E6C15FF709E}.Release|x64.Build.0 = Release|x64
 		{B850A8C5-4880-4AB0-96D9-1E6C15FF709E}.Release|x86.ActiveCfg = Release|Win32
+		{B850A8C5-4880-4AB0-96D9-1E6C15FF709E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
